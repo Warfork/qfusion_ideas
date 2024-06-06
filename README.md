@@ -75,7 +75,7 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * Don't start the demo until screen is loaded. It often happens when you have high disk or cpu usage, that the demo playback is already started in the background, while the screen is shown after a while
 
 ## Sound
-* OpenAL installator out of box, or at least UI link to get it
+* ~~OpenAL installator out of box, or at least UI link to get it~~
 * Possibility to disable map static sounds similar to QL s_ambient
 * UH/MH global spawn sound
 * MH dried up sound coming from the player possibly with gfx effect
